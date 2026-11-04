@@ -1,0 +1,12 @@
+# AWS & SSH Keys
+*.pem
+*.key
+id_rsa
+credentials.json
+.env
+
+# Build artifacts & dependencies
+node_modules/
+target/
+build/
+__pycache__/
